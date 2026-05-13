@@ -1,0 +1,8 @@
+{
+  "name": "SkySync Analytics",
+  "description": "A high-performance weather analytics dashboard featuring historical trends, predictive forecasting, and AI-powered climate insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
